@@ -1,2 +1,2 @@
-# Mentle-illness-diagnosis-and-Treatment-
-Implemented Kalah Game using Min-Max AB and Alpha Beta Search algorithms in C++. Used different Evaluation functions to compare results of the two algorithms and see which algorithm yields better results. 
+# Expert-System-for-the-diagnosis-of-Mental-illness-Treatment
+Developed Intelligent system using C++ to diagnose Mental illness, to suggest best possible treatment without human intervention. System efficiently minimizes the patient’s treatment time and logs the data with userfriendly interface
